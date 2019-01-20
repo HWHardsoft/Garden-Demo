@@ -1,0 +1,70 @@
+
+*** Gconvert 1.0 ***
+Current working directory: e:\Projekt\Meine_Wie\source\demos\Farm\ART
+Loading transformation file: garden_bgtiles1.xml ...
+Error in garden_bgtiles1.xml: Error reading Attributes.
+
+*** Gconvert 1.0 ***
+Current working directory: e:\Projekt\Meine_Wie\source\demos\Farm\ART
+Loading transformation file: garden_bgtiles1.xml ...
+Error in garden_bgtiles1.xml: Error reading Attributes.
+
+*** Gconvert 1.0 ***
+Current working directory: e:\Projekt\Meine_Wie\source\demos\Farm\ART
+Loading transformation file: garden_bgtiles1.xml ...
+File version: 1
+Input file: bgtiles2.raw
+Input file type: raw
+Input width: 256px
+Input height: 256px
+Tile width: 8px
+Tile height: 8px
+Output file: garden_BGTiles.pic.inc
+Output type: (null)
+Tiles variable name: BGTiles
+Maps pointers size: 8
+Map elements: 1
+Blank Tile index: 13
+File exported successfully!
+Unique tiles found: 193
+Total size (tiles + maps): 12355 bytes
+
+*** Gconvert 1.0 ***
+Current working directory: e:\Projekt\Meine_Wie\source\demos\Farm\ART
+Loading transformation file: garden_bgtiles1.xml ...
+File version: 1
+Input file: bgtiles2.raw
+Input file type: raw
+Input width: 256px
+Input height: 256px
+Tile width: 8px
+Tile height: 8px
+Output file: garden_BGTiles.pic.inc
+Output type: (null)
+Tiles variable name: BGTiles
+Maps pointers size: 8
+Map elements: 69
+Blank Tile index: 13
+File exported successfully!
+Unique tiles found: 193
+Total size (tiles + maps): 12732 bytes
+
+*** Gconvert 1.0 ***
+Current working directory: e:\Projekt\Meine_Wie\source\demos\Farm\ART
+Loading transformation file: garden_bgtiles1.xml ...
+File version: 1
+Input file: bgtiles2.raw
+Input file type: raw
+Input width: 256px
+Input height: 256px
+Tile width: 8px
+Tile height: 8px
+Output file: garden_BGTiles.pic.inc
+Output type: (null)
+Tiles variable name: BGTiles
+Maps pointers size: 8
+Map elements: 69
+Blank Tile index: 13
+File exported successfully!
+Unique tiles found: 193
+Total size (tiles + maps): 12732 bytes

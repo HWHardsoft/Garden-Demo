@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<gfx-xform version="1">
+    <input file="fonttiles.raw" type="raw" tile-width="8" tile-height="8" width="128" height="32" />
+    <output file="garden_Font.pic.inc">
+        <tiles var-name="BGTiles"/>
+        <maps pointers-size="8">	
+	    <map var-name="GB_Black" left="0" top="0" width="1" height="1"/>   
+ 
+	    
+	</maps>	
+    </output>
+</gfx-xform>

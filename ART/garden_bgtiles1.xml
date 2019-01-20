@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<gfx-xform version="1">
+    <input file="bgtiles2.raw" type="raw" tile-width="8" tile-height="8" width="256" height="256" />
+    <output file="garden_BGTiles.pic.inc">
+        <tiles var-name="BGTiles"/>
+        <maps pointers-size="8">	
+	    <map var-name="Background" left="0" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_UL" left="1" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_UH" left="2" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_UR" left="3" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_DL" left="4" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_DH" left="5" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_DR" left="6" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_VL" left="7" top="0" width="1" height="1"/>   
+	    <map var-name="Frame_VR" left="8" top="0" width="1" height="1"/>   
+	    <map var-name="MARKER_UL" left="9" top="0" width="1" height="1"/>   
+	    <map var-name="MARKER_UR" left="10" top="0" width="1" height="1"/>   
+	    <map var-name="MARKER_DL" left="11" top="0" width="1" height="1"/>   
+	    <map var-name="MARKER_DR" left="12" top="0" width="1" height="1"/>   
+
+		
+	    <map var-name="Field_empty_dry" left="0" top="1" width="2" height="2"/>   
+	    <map var-name="Field_empty_wet" left="2" top="1" width="2" height="2"/>   
+	    <map var-name="Field_disabled" left="4" top="1" width="2" height="2"/>   
+	    <map var-name="Field_surrounding" left="6" top="1" width="2" height="2"/>   
+	    <map var-name="Field_seed_dry" left="8" top="1" width="2" height="2"/>   
+	    <map var-name="Field_seed_wet" left="10" top="1" width="2" height="2"/>   
+	    <map var-name="Field_turnip1_dry" left="12" top="1" width="2" height="2"/>   
+	    <map var-name="Field_turnip1_wet" left="14" top="1" width="2" height="2"/>   
+	    <map var-name="Field_turnip_fin" left="16" top="1" width="2" height="2"/>   
+	    <map var-name="Field_eggplant_fin" left="18" top="1" width="2" height="2"/>   
+	    <map var-name="Field_carrot_fin" left="20" top="1" width="2" height="2"/>   
+	    <map var-name="Field_potato1_dry" left="22" top="1" width="2" height="2"/>   
+	    <map var-name="Field_potato1_wet" left="24" top="1" width="2" height="2"/>   
+	    <map var-name="Field_potato_fin" left="26" top="1" width="2" height="2"/>   
+	    <map var-name="Field_peanut_fin" left="28" top="1" width="2" height="2"/>   
+
+	    <map var-name="Field_tomato1_dry" left="0" top="3" width="2" height="2"/>   
+	    <map var-name="Field_tomato1_wet" left="2" top="3" width="2" height="2"/>   
+	    <map var-name="Field_tomato2_dry" left="4" top="3" width="2" height="2"/>   
+	    <map var-name="Field_tomato2_wet" left="6" top="3" width="2" height="2"/>   
+	    <map var-name="Field_tomato3_dry" left="8" top="3" width="2" height="2"/>   
+	    <map var-name="Field_tomato3_wet" left="10" top="3" width="2" height="2"/>   
+	    <map var-name="Field_tomato_fin" left="12" top="3" width="2" height="2"/>   
+	    <map var-name="Field_birds1" left="14" top="3" width="2" height="2"/>   
+	    <map var-name="Field_birds2" left="16" top="3" width="2" height="2"/>   
+	    <map var-name="Field_marrot1" left="18" top="3" width="2" height="2"/>   
+	    <map var-name="Field_marrot2" left="20" top="3" width="2" height="2"/>   
+
+	    <map var-name="Field_corn1_dry" left="0" top="5" width="2" height="2"/>   
+	    <map var-name="Field_corn1_wet" left="2" top="5" width="2" height="2"/>   
+	    <map var-name="Field_corn2_dry" left="4" top="5" width="2" height="2"/>   
+	    <map var-name="Field_corn2_wet" left="6" top="5" width="2" height="2"/>   
+	    <map var-name="Field_corn3_dry" left="8" top="5" width="2" height="2"/>   
+	    <map var-name="Field_corn3_wet" left="10" top="5" width="2" height="2"/>   
+	    <map var-name="Field_corn_fin" left="12" top="5" width="2" height="2"/>   
+	    <map var-name="Field_turnip_sere" left="14" top="5" width="2" height="2"/>   
+	    <map var-name="Field_tomato_sere" left="16" top="5" width="2" height="2"/>   
+	    <map var-name="Field_corn_sere" left="18" top="5" width="2" height="2"/>   
+	    <map var-name="Field_broccoli_sere" left="20" top="5" width="2" height="2"/>   
+
+	    <map var-name="Field_broccoli1_dry" left="0" top="7" width="2" height="2"/>   
+	    <map var-name="Field_broccoli1_wet" left="2" top="7" width="2" height="2"/>   
+	    <map var-name="Field_broccoli2_dry" left="4" top="7" width="2" height="2"/>   
+	    <map var-name="Field_broccoli2_wet" left="6" top="7" width="2" height="2"/>   
+	    <map var-name="Field_broccoli_fin" left="8" top="7" width="2" height="2"/>   
+
+	    <map var-name="Fruit_turnip" left="0" top="9" width="2" height="2"/>   
+	    <map var-name="Fruit_potato" left="2" top="9" width="2" height="2"/>   
+	    <map var-name="Fruit_eggplant" left="4" top="9" width="2" height="2"/>   
+	    <map var-name="Fruit_peanut" left="6" top="9" width="2" height="2"/>   
+	    <map var-name="Fruit_carrot" left="8" top="9" width="2" height="2"/>   
+	    <map var-name="Fruit_broccoli" left="10" top="9" width="2" height="2"/>   
+	    <map var-name="Fruit_tomato" left="12" top="9" width="2" height="2"/>   
+	    <map var-name="Fruit_corn" left="14" top="9" width="2" height="2"/>   
+
+	    <map var-name="Tool_hoe" left="0" top="11" width="2" height="2"/>   
+	    <map var-name="Tool_seed" left="2" top="11" width="2" height="2"/>   
+	    <map var-name="Tool_watering_can" left="4" top="11" width="2" height="2"/>   
+	    <map var-name="Tool_spray" left="6" top="11" width="2" height="2"/>   
+	    <map var-name="Tool_basket" left="8" top="11" width="2" height="2"/>   
+
+	    <map var-name="Scarecrow" left="0" top="13" width="3" height="3"/>   
+	    
+	</maps>	
+    </output>
+</gfx-xform>
